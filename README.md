@@ -2,6 +2,8 @@
 
 ## Curso de JavaScript Básico
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript) [![NodeJS](https://img.shields.io/badge/NODEJS-v20+-green?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)](https://nodejs.org/)
+
 > ##### ¿Te ha parecido útil este curso? Apóyalo haciendo "★ Star" en el repositorio para ayudarme. ¡Gracias!
 
 ![](./Images/JavaScript.png)
