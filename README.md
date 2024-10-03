@@ -4,7 +4,7 @@
 
 > ##### ¿Te ha parecido útil este curso? Apóyalo haciendo "★ Star" en el repositorio para ayudarme. ¡Gracias!
 
-![](./Images/JavaScript.jpg)
+![](./Images/JavaScript.png)
 
 ## Lecciones
 
