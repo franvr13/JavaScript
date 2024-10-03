@@ -42,3 +42,4 @@
 * [29 - Import Modules](./Basic/29-import-modules.js)
 * [30 - Import External Modules](./Basic/30-import-external-modules.js)
 * [31 - Modules Exercises](./Basic/31-modules-exercises.js)
+* [Package JSON](./Basic/package.json)
